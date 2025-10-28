@@ -147,6 +147,7 @@ Maintainer: Taha Saadat – MRTahasaadat on GitHub
 [ziraxa-ai](https://github.com/ziraxa-ai/Tender-AI/)
 ziraxa.ai@gmail.com
 
+[MRTahasaadat](https://github.com/ziraxa-ai/Tender-AI)
 mrtahasaadat@gmail.com
 
 

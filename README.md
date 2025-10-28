@@ -131,6 +131,23 @@ Vendor_Quotes + Product_Catalog
 
 
 
+### License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contact
+For inquiries and contributions:
+
+Organization: Ziraxa – ziraxa-ai on GitHub
+
+Maintainer: Taha Saadat – MRTahasaadat on GitHub
+
+### email
+
+[ziraxa-ai](https://github.com/ziraxa-ai/Tender-AI/)
+ziraxa.ai@gmail.com
+
+mrtahasaadat@gmail.com
 
 
 
